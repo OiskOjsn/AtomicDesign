@@ -1,8 +1,7 @@
-import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 export const Footer = () => {
-  return <SFooter>&copy; 2021 PonpokoInc</SFooter>;
+  return <SFooter>&copy; 2021 Ponpoko.Inc</SFooter>;
 };
 
 const SFooter = styled.footer`
